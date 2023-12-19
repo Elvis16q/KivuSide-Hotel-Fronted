@@ -1,17 +1,28 @@
+
 Online Hotel Booking System Overview
-====================================
-It is a multi-role application project i.e. Admin and User, where Admin will have the main control over the system.
-project requirement
-===================
-
-Admin will be responsible for managing the bookings and the system. On the other hand,
-Users can register themselves, log in using the login credentials, view and book the Online Hotel, view booking charges, facilities, etc.
-project plan
-==============
-
-The overall project is designed using the MVC pattern (MVC i.e. Model, View, and Controller). In the Backend,
-it is using Spring Boot, at the data access layer the project is using Hibernate Framework, and at the front end, 
-we are using vs@react, and Bootstrap. The Database used here is MYSQL.
+A comprehensive look at a multi-role application project featuring both Admin and User functionalities, with Admin holding primary control over the system.
+Project Requirement
+Admin Responsibilities:
+Booking Management: Admin oversees and manages all bookings within the system.
+System Administration: Admin is responsible for the overall management and maintenance of the system.
+User Functionalities:
+User Registration: Users can register within the system.
+User Authentication: Registered users can log in using their credentials.
+Hotel Exploration: Users can view available hotels and make bookings online.
+Booking Details: Access to information on booking charges, available facilities, and more.
+Project Plan
+A structured plan detailing the development approach for the Online Hotel Booking System, implementing the MVC pattern (Model, View, Controller).
+Technology Stack
+- Backend Framework: Spring Boot
+- Data Access Layer: Hibernate Framework
+- Frontend Frameworks: React and Bootstrap
+- Database Management: MySQL
+Architecture Overview
+The project adopts the Model-View-Controller (MVC) pattern, ensuring a modular and scalable design. Spring Boot handles backend logic, Hibernate manages data access, and React and Bootstrap provide an engaging frontend.
+Note:
+The project embraces modern technologies for efficient development and user-friendly interfaces.
+The backend utilizes Spring Boot and Hibernate, while the frontend leverages React and Bootstrap.
+MySQL serves as the database for storing and retrieving data.
 
 Online Hotel Booking System Abstract
 =======================================
