@@ -206,7 +206,10 @@ Technical Documentation:
         Database: MySql
         Security: Spring Security
         Build Tool: Maven 
-
+Prerequisites
+Java 17 installed
+MySQL 8 installed
+Maven installed
 
 
 
