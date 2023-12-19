@@ -233,6 +233,17 @@ Maven installed
 
 
 
+userbooking confirmation code:
+![Screenshot 2023-12-19 122529](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/0bf1de6a-5c0a-497b-ae88-4f494f6e994c)
+Admin panel for bookings:
+![Screenshot 2023-12-19 122404](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/3665e1cd-8932-4a85-92d0-b9497e403254)
+user option to choose a room:
+![Screenshot 2023-12-19 122347](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/27828b9d-8de0-4732-9448-ebce949e805f)
+Home page:
+![Screenshot 2023-12-19 122334](https://github.com/Elvis16q/KivuSide-hotel-backend/assets/137180945/667d379c-d779-4406-b9ec-8427bf14c920)
+
+
+
 
 
 
