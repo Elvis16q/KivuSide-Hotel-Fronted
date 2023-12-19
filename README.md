@@ -1,6 +1,7 @@
 Online Hotel Booking System Overview
+====================================
 It is a multi-role application project i.e. Admin and User, where Admin will have the main control over the system.
->>project requirement
+project requirement
 ===================
 Admin will be responsible for managing the bookings and the system. On the other hand,
 Users can register themselves, log in using the login credentials, view and book the Online Hotel, view booking charges, facilities, etc.
@@ -9,7 +10,7 @@ project plan
 The overall project is designed using the MVC pattern (MVC i.e. Model, View, and Controller). In the Backend,
 it is using Spring Boot, at the data access layer the project is using Hibernate Framework, and at the front end, 
 we are using vs@react, and Bootstrap. The Database used here is MYSQL.
->>
+
 Online Hotel Booking System Abstract
 =======================================
 Online bookings and reservations have seen exponential growth in the last few years. Everything from booking tickets to venues is done online.
