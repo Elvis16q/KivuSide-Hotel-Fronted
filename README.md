@@ -140,6 +140,8 @@ Referential Integrity:
 
 The foreign key ensures referential integrity, meaning that a booking cannot reference a non-existent room. 
 It enforces consistency in the data, ensuring that each booking is associated with a valid room.
+![Screenshot 2023-12-19 111205](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/46d4d635-6f9e-46c1-b340-1cc0aadd1077)
+
 ![Screenshot 2023-12-19 111149](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/244dca44-bdd3-4d67-a169-cfb034d74b77)
 
 on security
