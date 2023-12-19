@@ -1,6 +1,6 @@
 
-Online Hotel Booking System Overview
-======================================
+Online Hotel Booking System Overview Requirements
+==================================================
 A comprehensive look at a multi-role application project featuring both Admin and User functionalities, with Admin holding primary control over the system.
 Project Requirement
 ====================
