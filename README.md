@@ -195,7 +195,27 @@ providing flexibility in defining access and permissions in an application. The 
 
 ![Screenshot 2023-12-19 111101](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/2bfcdf9c-637f-4767-b9c6-07822992eb00)
 ![Screenshot 2023-12-19 111117](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/af2d0ff3-712b-4d4c-9eaf-1a48eca5fc22)
+User Roles of Online Hotel Booking System 
+=========================================
+Admin:
 
+Can Log in/Log out of the system.
+Admin can manage categories in the system.
+Admin can View/Confirm/Cancel the booking done by the User.
+Can check payments done by User.
+Can manage and check the availability of Hotels online.
+Can manage users.
+Can change password.
+Can manage “My Profiles”.
+User:
+
+Can Log in/Log out of the system.
+Can Manage “My profile”.
+Can search for Online Hotels available.
+Users can Book/Cancel hotels.
+Can make payments online.
+Can change password.
+Flow Diagram of Onli
 Technical Documentation:
 =========================
   1 System Architecture
