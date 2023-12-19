@@ -3,6 +3,7 @@ Online Hotel Booking System Overview
 ======================================
 A comprehensive look at a multi-role application project featuring both Admin and User functionalities, with Admin holding primary control over the system.
 Project Requirement
+====================
 Admin Responsibilities:
 Booking Management: Admin oversees and manages all bookings within the system.
 System Administration: Admin is responsible for the overall management and maintenance of the system.
