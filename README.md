@@ -189,6 +189,11 @@ The "user" table contains information about each user, such as email, first name
 The many-to-many relationship allows users to have multiple roles and roles to be associated with multiple users,
 providing flexibility in defining access and permissions in an application. The "user_role" table serves as the bridge between users and roles in this schema.
 
+![Screenshot 2023-12-19 111131](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/aa373799-8c90-4813-bdc7-dfbcea26c67f)
+![Screenshot 2023-12-19 111149](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/244dca44-bdd3-4d67-a169-cfb034d74b77)
+![Screenshot 2023-12-19 111101](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/2bfcdf9c-637f-4767-b9c6-07822992eb00)
+![Screenshot 2023-12-19 111117](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/af2d0ff3-712b-4d4c-9eaf-1a48eca5fc22)
+
 Technical Documentation:
 =========================
 Front-End: Vite@react,Bootstrap,.
