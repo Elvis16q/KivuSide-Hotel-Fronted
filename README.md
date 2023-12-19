@@ -198,10 +198,14 @@ providing flexibility in defining access and permissions in an application. The 
 
 Technical Documentation:
 =========================
-Front-End: Vite@react,Bootstrap,.
-Server-side: Spring Boot.
-Back-end: MYSQL, Hibernate.
-Server: Tomcat 8.5.
+  1 System Architecture
+        The Hotel tBookingApp follows a [MVC (Model-View-Controller)] architecture, where the frontend (View) is implemented using Thymeleaf, CSS, and JavaScript, and the backend (Controller and Model) is developed using Spring Boot.
+      2 Technology Stack
+        Frontend: Vite@react, CSS, JavaScript
+        Backend: Spring Boot MVC
+        Database: MySql
+        Security: Spring Security
+        Build Tool: Maven 
 
 
 
