@@ -48,6 +48,10 @@ Availability- In this module, Admin can check whether the rooms are available or
 Details of User- Details of a User like a Name, Contact Number, Address, and booking history can be managed by Admin with this module.
 
 
+![Screenshot 2023-12-19 094908](https://github.com/Elvis16q/KivuSide-Hotel-Fronted/assets/137180945/dda6890e-5510-4d14-aed0-ab2c7d1e72d5)
+
+
+
 
 
 
